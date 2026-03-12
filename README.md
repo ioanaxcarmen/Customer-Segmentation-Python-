@@ -42,6 +42,10 @@ Two methods were used to determine the appropriate number of clusters:
 
 Both approaches suggested that **four clusters** provide a suitable segmentation of the dataset.
 
+#### Elbow Method
+
+![Elbow Method](elbow.png)
+
 ### 3. K-Means Clustering
 A **K-Means clustering model** was trained using the selected features to group customers into distinct segments.
 
@@ -56,11 +60,9 @@ Cluster characteristics were analyzed by examining average values for:
 This helped identify behavioral patterns across the clusters.
 
 ### 5. Visualization
-Scatter plots were used to visualize customer clusters based on:
+Scatter plot was used to visualize customer clusters:
 
-- Weekly Spending  
-- Satisfaction Score  
-- Loyalty Membership Status  
+![Customer Clusters](images/clusters.png)
 
 ---
 
