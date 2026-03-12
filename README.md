@@ -62,7 +62,7 @@ This helped identify behavioral patterns across the clusters.
 ### 5. Visualization
 Scatter plot was used to visualize customer clusters:
 
-![Customer Clusters](images/clusters.png)
+![Customer Clusters](clusters.png)
 
 ---
 
