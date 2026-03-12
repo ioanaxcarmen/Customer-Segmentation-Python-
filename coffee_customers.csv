@@ -1,0 +1,11 @@
+﻿Age,Gender,VisitFrequency,WeeklySpend,DrinkPreference,LoyaltyMember,SatisfactionScore,Location
+,Male,Weekly,143.89,Americano,1,2.5,Campus
+46,Female,Daily,,Espresso,1,3.3,Downtown
+32,Male,Weekly,11.18,Cappuccino,1,3.4,Suburb
+38,Male,Weekly,12.62,Cappuccino,1,4,Suburb
+,Male,Weekly,5.52,,0,4.5,Downtown
+,Female,Weekly,7.09,Americano,0,5,Downtown
+,Female,Weekly,7.09,Americano,0,5,Downtown
+,Male,Weekly,14.14,Tea,1,5,Campus
+,Male,Weekly,8.34,Espresso,1,3.8,Downtown
+28,Other,Daily,12.65,Tea,1,4.1,Downtown
